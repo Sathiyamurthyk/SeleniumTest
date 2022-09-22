@@ -15,5 +15,6 @@ public static void main(String[] args) {
 	PhoneInfo.phone_name();
 	PhoneInfo.camera();
 	PhoneInfo.storage();
+	System.out.println("test");
 }
 }
